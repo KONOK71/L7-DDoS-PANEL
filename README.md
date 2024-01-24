@@ -1,8 +1,9 @@
 # 🚀 Stanley- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 > TO GET USERNAME AND PASSWORD CONTACT https://t.me/Not_found_404_not_responding
+
 > A FREE DDoS TOOL BY CYBER SORCERER 
-> CONTACT JOIN ON MY TELEGRAM CHANNEL TO GET MOR TOOLS
+> JOIN ON MY TELEGRAM CHANNEL https://t.me/teamblackfalcon TO GET MOR TOOLS
 
 The source is not mine, I just made a few additions
 
