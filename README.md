@@ -1,7 +1,7 @@
 # 🚀 Stanley- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: 1337<br>
-> Password: 1337<br>
+> Username: TBF<br>
+> Password: TBF<br>
 
 The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
 
