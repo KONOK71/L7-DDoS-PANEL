@@ -1,9 +1,9 @@
 # 🚀 Stanley- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: TBF<br>
-> Password: TBF<br>
+> Username: <br>
+> Password: <br>
 
-The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
+The source is not mine, I just made a few additions
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
