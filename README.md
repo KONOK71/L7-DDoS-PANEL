@@ -31,7 +31,7 @@ cd Stanley
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
-sudo python3 stanley.py
+sudo python3 CS.py
 ```
 
 # Credits
