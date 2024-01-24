@@ -221,7 +221,7 @@ def amp_games():
 
 
 def menu():
-    sys.stdout.write(f"\x1b]2;Stanley Net --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    sys.stdout.write(f"\x1b]2;CYBER SORCERER Net --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
     print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to Stanley CnC! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: weird1337 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mNew Methods \x1b[38;2;0;255;255m+ \x1b[38;2;233;233;233mNew UI!')
     print("")
@@ -619,8 +619,8 @@ def main():
 
 def login():
     clear()
-    user = "1337"
-    passwd = "1337"
+    user = "TBF"
+    passwd = "TBF"
     username = input("</> Username: ")
     password = getpass.getpass(prompt='</> Password: ')
     if username != user or password != passwd:
